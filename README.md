@@ -1,4 +1,4 @@
-👋 Hi, I’m @Fatmaaghoul, a full-stack developer and cloud engineer
+👋 Hi, I’m @Fatmaaghoul, a full-stack developer and software engineering student
 
 🌱 I’m currently expanding my skills in Big Data, machine learning, and modern frameworks like Flutter and Node.js
 
